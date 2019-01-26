@@ -1,0 +1,121 @@
+id,payable_event,event,kpi_type,kpi_goal
+11607,NULL,app_bookings_made_1,Percentage,40
+15516,NULL,firstorder,CPE,8
+15521,NULL,firstorder,CPE,8
+15522,NULL,firstorder,CPE,8
+16111,NULL,register,Percentage,15
+16112,NULL,register,Percentage,15
+16329,NULL,first xfer injected,CPE,30
+43284,NULL,first xfer injected,CPE,30
+43411,NULL,Registration,Percentage,10
+59839,NULL,Registration,Percentage,20
+143483,NULL,Registration,Percentage,20
+149538,NULL,finish registration,Percentage,20
+164992,NULL,{firstorder},CPE,30
+170318,NULL,real_acquisition,Percentage,12
+170318,NULL,order,CPE,30
+170431,NULL,firstorder,CPE,10
+170653,NULL,firstorder,CPE,10
+171651,NULL,register,Percentage,15
+171653,NULL,register,Percentage,15
+172126,NULL,Purchase,Percentage,15
+172866,NULL,firstorder,CPE,8
+172884,NULL,docs_received,CPE,12
+173375,NULL,ftb,Percentage,8
+190799,NULL,flightdeeplinkopened,Percentage,90
+191231,NULL,ftd rate,Percentage,2
+192184,NULL,ftd,CPE,75
+192643,NULL,firstorder,CPE,25
+193103,NULL,purchase,Percentage,10
+193658,NULL,purchases,Percentage,10
+193845,NULL,fts,Percentage,5
+193968,NULL,Cost per real acquisition,CPE,30
+194257,NULL,purchase,Percentage,10
+194257,NULL,registration,Percentage,10
+194261,NULL,sign up,Percentage,10
+194261,NULL,purchase,Percentage,10
+195112,NULL,ftd rate,Percentage,2
+195176,NULL,payment.deposit_first,Percentage,5
+196330,NULL,join_complete,Percentage,10
+196403,NULL,addpaymentinfo,Percentage,10
+196579,NULL,signupcomplete,Percentage,10
+196580,NULL,signupcomplete,Percentage,10
+196786,NULL,FTD rate,Percentage,2
+196939,NULL,payment_success,Percentage,10.5
+196974,NULL,CoS,ROI,500
+197045,NULL,achat,Percentage,5
+197126,NULL,{in_app_acquisition},CPE,29
+197175,NULL,bidder,Percentage,75
+197178,NULL,2,Percentage,15
+196330,NULL,open,Percentage,20
+196330,NULL,contact_apply_complete,Percentage,5
+197335,NULL,trackvideostart,Percentage,400
+197335,NULL,Trackpaymentcomplete,Percentage,7
+197336,NULL,Trackpaymentcomplete,Percentage,7
+197374,NULL,Purchase,Percentage,15
+197584,NULL,ftb,Percentage,8
+197646,NULL,{first_deposit},Percentage,5
+197657,NULL,af_travel_booking,Percentage,5
+197658,NULL,af_travel_booking,Percentage,5
+197659,NULL,af_travel_booking,Percentage,5
+197713,NULL,signup_id_member,Percentage,20
+197792,NULL,first deposit,CPE,300
+197793,NULL,registration,CPE,40
+197802,NULL,CoS,ROI,500
+197803,NULL,CoS,ROI,300
+197860,NULL,CoS,ROI,300
+197861,NULL,CoS,ROI,300
+197863,NULL,CoS,ROI,300
+197997,NULL,registration,Percentage,20
+197336,NULL,Trackvideostart,Percentage,400
+198111,NULL,achieved_level_40,Percentage,10
+198111,NULL,tutorial_complete,Percentage,40
+198111,NULL,registration,Percentage,70
+198112,NULL,registration,Percentage,70
+198264,NULL,Purchase,Percentage,15
+198274,NULL,ftb,Percentage,8
+198112,NULL,achieved_level_40,Percentage,10
+198112,NULL,tutorial_complete,Percentage,40
+198364,NULL,order,CPE,30
+198493,NULL,Purchase,Percentage,15
+198494,NULL,Purchase,Percentage,15
+198495,NULL,Purchase,Percentage,15
+198364,NULL,real_acquisition,Percentage,12
+198539,NULL,Login,Percentage,40
+198539,NULL,level_3,Percentage,40
+198601,NULL,Viewscreen,Percentage,500
+198639,NULL,11,Percentage,30
+198647,NULL,finish registration,Percentage,20
+198752,NULL,purchase,Percentage,5
+198762,NULL,registrarse,Percentage,8
+198601,NULL,call,Percentage,5
+198764,NULL,roundup_activation,CPE,3.45
+198764,NULL,autotopup_activation,CPE,3.45
+198764,NULL,retention__activation,CPE,3.45
+198764,NULL,invest_crowdlending,CPE,3.45
+198766,NULL,invest_crowdlending,CPE,3.45
+198785,NULL,3,Percentage,2
+198816,NULL,addpaymentinfo,Percentage,10
+198841,NULL,3,Percentage,2
+198766,NULL,roundup_activation,CPE,3.45
+198766,NULL,autotopup_activation,CPE,3.45
+198766,NULL,retention__activation,CPE,3.45
+198842,NULL,real_acquisition,Percentage,12
+198843,NULL,{in_app_acquisition},CPE,29
+198842,NULL,order,CPE,25
+198852,NULL,1,Percentage,10
+198852,NULL,2,Percentage,30
+198852,NULL,11,Percentage,30
+198853,NULL,1,Percentage,10
+198853,NULL,2,Percentage,30
+198853,NULL,11,Percentage,30
+198854,NULL,level 6,Percentage,10
+198855,NULL,Registration,Percentage,20
+198901,NULL,fts,Percentage,5
+199014,NULL,registers,Percentage,20
+199023,NULL,04_Create_Nickname,Percentage,30
+199024,NULL,04_Create_Nickname,Percentage,30
+199032,NULL,registro,Percentage,20
+199035,NULL,registro,Percentage,40
+198854,NULL,character_name,Percentage,30
+198854,NULL,open,Percentage,30
